@@ -245,3 +245,6 @@ This repository serves as the official landing page for SendSpace. The software 
 [![Download Latest Version](https://img.shields.io/badge/📥%20Download%20Latest%20Version-00b4d8?style=for-the-badge&logo=github&logoColor=white)](https://sendspace.com)
 
 **Get the most recent version of SendSpace today!**
+
+---
+**Last updated:** 2026-09-08 11:54:27 UTC
